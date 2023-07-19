@@ -4,9 +4,11 @@
 
 ユーザーに寄り添った透明性のあるスキンケア製品のレコメンドエンジン
 
-## LP
+## 各種リンク
 
-[SkinFit](https://skin-fit.studio.site/)
+- [LP](https://skin-fit.studio.site/)
+- [MVP](./MVP.md)
+- [ルールなど](./CONTRIBUTING.md)
 
 ## デモ
 
